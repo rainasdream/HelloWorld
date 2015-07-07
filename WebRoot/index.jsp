@@ -1,4 +1,4 @@
-<%@ page language="java" import="java.util.*" pageEncoding="ISO-8859-1"%>
+<%@ page language="java" import="java.util.*" pageEncoding="utf8"%>
 <%
 String path = request.getContextPath();
 String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.getServerPort()+path+"/";
@@ -21,6 +21,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   </head>
   
   <body>
-    This is my first git page test. <br>
+    再次测试一下 <br>
   </body>
 </html>
